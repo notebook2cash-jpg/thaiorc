@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "updated_at": "2026-02-07T03:49:00.132276Z",
+  "date": 31,
+  "period": "10 ปีย้อนหลัง",
+  "data": {
+    "date": 31,
+    "digit_position_stats": {
+      "0": {
+        "hundreds": 1,
+        "tens": 1,
+        "units": 0,
+        "total": 2
+      },
+      "1": {
+        "hundreds": 0,
+        "tens": 1,
+        "units": 0,
+        "total": 1
+      },
+      "2": {
+        "hundreds": 2,
+        "tens": 1,
+        "units": 1,
+        "total": 4
+      },
+      "3": {
+        "hundreds": 2,
+        "tens": 1,
+        "units": 3,
+        "total": 6
+      },
+      "4": {
+        "hundreds": 3,
+        "tens": 3,
+        "units": 4,
+        "total": 10
+      },
+      "5": {
+        "hundreds": 1,
+        "tens": 3,
+        "units": 0,
+        "total": 4
+      },
+      "6": {
+        "hundreds": 4,
+        "tens": 1,
+        "units": 2,
+        "total": 7
+      },
+      "7": {
+        "hundreds": 1,
+        "tens": 3,
+        "units": 2,
+        "total": 6
+      },
+      "8": {
+        "hundreds": 1,
+        "tens": 2,
+        "units": 3,
+        "total": 6
+      },
+      "9": {
+        "hundreds": 1,
+        "tens": 0,
+        "units": 1,
+        "total": 2
+      }
+    },
+    "frequency_distribution": {
+      "1": [
+        "007",
+        "277",
+        "303",
+        "339",
+        "408",
+        "537",
+        "541",
+        "575",
+        "605",
+        "647",
+        "664",
+        "695",
+        "718",
+        "725",
+        "922",
+        "932"
+      ]
+    },
+    "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date31.php?ay=2559"
+  }
+}

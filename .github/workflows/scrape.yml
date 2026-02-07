@@ -1,0 +1,75 @@
+name: Scrape Lao Lottery (Full)
+
+on:
+  # Full scrape: ทุกวัน จันทร์ พุธ ศุกร์ เวลา 06:00 และ 22:30 (เวลาไทย UTC+7)
+  # 06:00 TH = 23:00 UTC วันก่อนหน้า (อาทิตย์/อังคาร/พฤหัสบดี)
+  # 22:30 TH = 15:30 UTC วันเดียวกัน (จันทร์/พุธ/ศุกร์)
+  schedule:
+    - cron: '0 23 * * 0,2,4'   # 06:00 TH (จ./พ./ศ.)
+    - cron: '30 15 * * 1,3,5'  # 22:30 TH (จ./พ./ศ.)
+  # Allow manual trigger
+  workflow_dispatch:
+  # Run on push to main
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper (full mode)
+        run: python scrape.py --mode full
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "update: lao lottery full data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+  # Deploy to GitHub Pages for API hosting
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'api'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

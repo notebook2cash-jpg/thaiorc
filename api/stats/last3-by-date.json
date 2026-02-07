@@ -1,0 +1,3022 @@
+{
+  "status": "ok",
+  "updated_at": "2026-02-07T03:49:00.132276Z",
+  "source": "https://lotto.thaiorc.com/lao/last3/stats-date{1-31}.php",
+  "period": "10 ปีย้อนหลัง",
+  "count": 31,
+  "data": {
+    "1": {
+      "date": 1,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 0,
+          "total": 5
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 2,
+          "total": 7
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 3,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 3,
+          "total": 7
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 3,
+          "total": 7
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 1,
+          "total": 5
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 4,
+          "total": 8
+        },
+        "7": {
+          "hundreds": 4,
+          "tens": 0,
+          "units": 2,
+          "total": 6
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "9": {
+          "hundreds": 1,
+          "tens": 8,
+          "units": 4,
+          "total": 13
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "851"
+        ],
+        "1": [
+          "036",
+          "088",
+          "182",
+          "233",
+          "355",
+          "402",
+          "472",
+          "481",
+          "499",
+          "506",
+          "553",
+          "561",
+          "596",
+          "603",
+          "616",
+          "617",
+          "622",
+          "687",
+          "727",
+          "849",
+          "887",
+          "973"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date1.php?ay=2559"
+    },
+    "2": {
+      "date": 2,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 3,
+          "total": 7
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 2,
+          "total": 6
+        },
+        "2": {
+          "hundreds": 7,
+          "tens": 2,
+          "units": 3,
+          "total": 12
+        },
+        "3": {
+          "hundreds": 4,
+          "tens": 5,
+          "units": 4,
+          "total": 13
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 0,
+          "units": 4,
+          "total": 6
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 1,
+          "total": 8
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 0,
+          "total": 2
+        },
+        "7": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 4,
+          "total": 8
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 0,
+          "total": 3
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 3,
+          "total": 7
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "005",
+          "085",
+          "104",
+          "119",
+          "206",
+          "220",
+          "237",
+          "371",
+          "409",
+          "413",
+          "489",
+          "493",
+          "496",
+          "535",
+          "548",
+          "556",
+          "569",
+          "605",
+          "609",
+          "626",
+          "724",
+          "734",
+          "809",
+          "862"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date2.php?ay=2559"
+    },
+    "3": {
+      "date": 3,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 5,
+          "total": 12
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 5,
+          "total": 11
+        },
+        "2": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 4,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 3,
+          "total": 9
+        },
+        "4": {
+          "hundreds": 6,
+          "tens": 5,
+          "units": 2,
+          "total": 13
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 2,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "7": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 2,
+          "total": 9
+        },
+        "8": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 2,
+          "total": 6
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "049",
+          "072",
+          "102",
+          "136",
+          "155",
+          "224",
+          "226",
+          "256",
+          "263",
+          "268",
+          "320",
+          "399",
+          "411",
+          "473",
+          "521",
+          "616",
+          "654",
+          "659",
+          "671",
+          "701",
+          "720",
+          "744",
+          "749",
+          "798",
+          "823",
+          "873",
+          "897",
+          "959",
+          "999"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date3.php?ay=2559"
+    },
+    "4": {
+      "date": 4,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 1,
+          "total": 6
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 0,
+          "units": 4,
+          "total": 6
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 0,
+          "total": 6
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 3,
+          "total": 10
+        },
+        "5": {
+          "hundreds": 7,
+          "tens": 2,
+          "units": 2,
+          "total": 11
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 1,
+          "total": 6
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 5,
+          "total": 10
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 4,
+          "total": 7
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 4,
+          "total": 10
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "073",
+          "131",
+          "157",
+          "185",
+          "242",
+          "303",
+          "353",
+          "445",
+          "536",
+          "589",
+          "617",
+          "626",
+          "629",
+          "636",
+          "669",
+          "678",
+          "784",
+          "822",
+          "847",
+          "850",
+          "899",
+          "915",
+          "938",
+          "953",
+          "957",
+          "968"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date4.php?ay=2559"
+    },
+    "5": {
+      "date": 5,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 5,
+          "units": 2,
+          "total": 11
+        },
+        "1": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 4,
+          "total": 7
+        },
+        "2": {
+          "hundreds": 5,
+          "tens": 2,
+          "units": 4,
+          "total": 11
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 2,
+          "total": 8
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 0,
+          "total": 3
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 1,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 7,
+          "total": 12
+        },
+        "7": {
+          "hundreds": 5,
+          "tens": 4,
+          "units": 5,
+          "total": 14
+        },
+        "8": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 2,
+          "total": 9
+        },
+        "9": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 3,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "279"
+        ],
+        "1": [
+          "029",
+          "056",
+          "068",
+          "124",
+          "145",
+          "150",
+          "154",
+          "160",
+          "246",
+          "263",
+          "322",
+          "333",
+          "493",
+          "498",
+          "543",
+          "654",
+          "657",
+          "675",
+          "775",
+          "804",
+          "810",
+          "845",
+          "847",
+          "895",
+          "908",
+          "926",
+          "974",
+          "993"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date5.php?ay=2559"
+    },
+    "6": {
+      "date": 6,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 0,
+          "total": 6
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 6,
+          "total": 13
+        },
+        "2": {
+          "hundreds": 5,
+          "tens": 2,
+          "units": 4,
+          "total": 11
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 4,
+          "total": 8
+        },
+        "5": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 1,
+          "total": 8
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 3,
+          "total": 6
+        },
+        "7": {
+          "hundreds": 1,
+          "tens": 7,
+          "units": 1,
+          "total": 9
+        },
+        "8": {
+          "hundreds": 0,
+          "tens": 2,
+          "units": 3,
+          "total": 5
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 3,
+          "total": 9
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "446"
+        ],
+        "1": [
+          "003",
+          "036",
+          "095",
+          "102",
+          "124",
+          "138",
+          "160",
+          "186",
+          "236",
+          "269",
+          "284",
+          "430",
+          "473",
+          "478",
+          "594",
+          "609",
+          "717",
+          "739",
+          "769",
+          "786",
+          "816",
+          "828",
+          "846",
+          "900",
+          "976"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date6.php?ay=2559"
+    },
+    "7": {
+      "date": 7,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 4,
+          "total": 9
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 6,
+          "units": 2,
+          "total": 10
+        },
+        "2": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 3,
+          "total": 10
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 1,
+          "total": 6
+        },
+        "4": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 1,
+          "total": 4
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 4,
+          "total": 9
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 1,
+          "total": 3
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 5,
+          "units": 4,
+          "total": 11
+        },
+        "8": {
+          "hundreds": 6,
+          "tens": 1,
+          "units": 6,
+          "total": 13
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 2,
+          "total": 9
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "040",
+          "055",
+          "057",
+          "066",
+          "085",
+          "135",
+          "159",
+          "160",
+          "215",
+          "318",
+          "320",
+          "339",
+          "357",
+          "366",
+          "368",
+          "402",
+          "532",
+          "534",
+          "538",
+          "653",
+          "732",
+          "797",
+          "827",
+          "850",
+          "887",
+          "912",
+          "924",
+          "927"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date7.php?ay=2559"
+    },
+    "8": {
+      "date": 8,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 5,
+          "tens": 1,
+          "units": 0,
+          "total": 6
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 4,
+          "units": 2,
+          "total": 10
+        },
+        "2": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 4,
+          "total": 11
+        },
+        "3": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 4,
+          "total": 7
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 6,
+          "units": 3,
+          "total": 11
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 1,
+          "total": 5
+        },
+        "6": {
+          "hundreds": 0,
+          "tens": 3,
+          "units": 2,
+          "total": 5
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 5,
+          "total": 11
+        },
+        "8": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 2,
+          "total": 5
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 4,
+          "total": 10
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "034",
+          "044",
+          "058",
+          "232",
+          "297",
+          "310",
+          "347",
+          "449",
+          "468",
+          "469",
+          "475",
+          "485",
+          "503",
+          "545",
+          "619",
+          "662",
+          "684",
+          "786",
+          "793",
+          "798",
+          "808",
+          "811",
+          "878",
+          "913",
+          "939",
+          "946",
+          "947"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date8.php?ay=2559"
+    },
+    "9": {
+      "date": 9,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 1,
+          "total": 8
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 5,
+          "units": 1,
+          "total": 8
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 0,
+          "units": 2,
+          "total": 5
+        },
+        "3": {
+          "hundreds": 5,
+          "tens": 5,
+          "units": 1,
+          "total": 11
+        },
+        "4": {
+          "hundreds": 0,
+          "tens": 3,
+          "units": 4,
+          "total": 7
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 5,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 4,
+          "total": 9
+        },
+        "7": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 2,
+          "total": 7
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 4,
+          "total": 9
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 2,
+          "total": 7
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "251"
+        ],
+        "1": [
+          "052",
+          "053",
+          "065",
+          "116",
+          "132",
+          "151",
+          "234",
+          "339",
+          "374",
+          "379",
+          "431",
+          "435",
+          "457",
+          "518",
+          "541",
+          "569",
+          "622",
+          "713",
+          "737",
+          "795",
+          "800",
+          "905",
+          "959",
+          "964"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date9.php?ay=2559"
+    },
+    "10": {
+      "date": 10,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 1,
+          "total": 6
+        },
+        "1": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 6,
+          "total": 9
+        },
+        "2": {
+          "hundreds": 5,
+          "tens": 5,
+          "units": 2,
+          "total": 12
+        },
+        "3": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 2,
+          "total": 5
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 5,
+          "total": 11
+        },
+        "5": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 0,
+          "total": 4
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 0,
+          "units": 1,
+          "total": 2
+        },
+        "7": {
+          "hundreds": 5,
+          "tens": 3,
+          "units": 4,
+          "total": 12
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 7,
+          "units": 5,
+          "total": 13
+        },
+        "9": {
+          "hundreds": 6,
+          "tens": 4,
+          "units": 3,
+          "total": 13
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "774"
+        ],
+        "1": [
+          "018",
+          "148",
+          "155",
+          "187",
+          "206",
+          "212",
+          "230",
+          "234",
+          "256",
+          "273",
+          "318",
+          "389",
+          "391",
+          "393",
+          "464",
+          "521",
+          "556",
+          "576",
+          "611",
+          "704",
+          "709",
+          "742",
+          "817",
+          "824",
+          "879",
+          "895",
+          "934"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date10.php?ay=2559"
+    },
+    "11": {
+      "date": 11,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 1,
+          "total": 4
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 0,
+          "total": 4
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 7,
+          "total": 10
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 0,
+          "total": 5
+        },
+        "4": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 3,
+          "total": 10
+        },
+        "5": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 2,
+          "total": 6
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 6,
+          "units": 6,
+          "total": 16
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 0,
+          "total": 4
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 1,
+          "total": 3
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 6,
+          "units": 6,
+          "total": 16
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "011",
+          "033",
+          "138",
+          "167",
+          "189",
+          "210",
+          "264",
+          "269",
+          "316",
+          "318",
+          "339",
+          "382",
+          "385",
+          "623",
+          "650",
+          "667",
+          "683",
+          "692",
+          "715",
+          "767",
+          "781",
+          "811",
+          "856",
+          "925",
+          "968",
+          "988"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date11.php?ay=2559"
+    },
+    "12": {
+      "date": 12,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 3,
+          "total": 9
+        },
+        "1": {
+          "hundreds": 1,
+          "tens": 0,
+          "units": 4,
+          "total": 5
+        },
+        "2": {
+          "hundreds": 0,
+          "tens": 7,
+          "units": 2,
+          "total": 9
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 6,
+          "units": 0,
+          "total": 9
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 5,
+          "total": 11
+        },
+        "5": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 3,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 2,
+          "total": 8
+        },
+        "7": {
+          "hundreds": 5,
+          "tens": 0,
+          "units": 2,
+          "total": 7
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 2,
+          "total": 9
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 5,
+          "total": 10
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "034",
+          "045",
+          "065",
+          "077",
+          "099",
+          "114",
+          "149",
+          "153",
+          "188",
+          "215",
+          "284",
+          "292",
+          "399",
+          "432",
+          "443",
+          "532",
+          "546",
+          "559",
+          "597",
+          "651",
+          "672",
+          "723",
+          "724",
+          "753",
+          "811",
+          "842",
+          "883",
+          "919"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date12.php?ay=2559"
+    },
+    "13": {
+      "date": 13,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 0,
+          "total": 5
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 6,
+          "total": 13
+        },
+        "2": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 2,
+          "total": 4
+        },
+        "3": {
+          "hundreds": 7,
+          "tens": 3,
+          "units": 1,
+          "total": 11
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 1,
+          "total": 5
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 2,
+          "total": 8
+        },
+        "6": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 3,
+          "total": 6
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 2,
+          "total": 5
+        },
+        "8": {
+          "hundreds": 0,
+          "tens": 5,
+          "units": 5,
+          "total": 10
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 3,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "026",
+          "087",
+          "114",
+          "172",
+          "177",
+          "193",
+          "232",
+          "254",
+          "278",
+          "319",
+          "351",
+          "433",
+          "456",
+          "481",
+          "498",
+          "543",
+          "598",
+          "630",
+          "647",
+          "733",
+          "809",
+          "831",
+          "839",
+          "857",
+          "934"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date13.php?ay=2559"
+    },
+    "14": {
+      "date": 14,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 3,
+          "total": 9
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 4,
+          "total": 7
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 2,
+          "total": 6
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 1,
+          "total": 8
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 3,
+          "total": 9
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 2,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 1,
+          "total": 5
+        },
+        "7": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 4,
+          "total": 9
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 3,
+          "total": 8
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 3,
+          "total": 10
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "006",
+          "056",
+          "059",
+          "060",
+          "070",
+          "130",
+          "177",
+          "222",
+          "243",
+          "258",
+          "274",
+          "277",
+          "426",
+          "427",
+          "433",
+          "496",
+          "537",
+          "588",
+          "614",
+          "627",
+          "647",
+          "839",
+          "877",
+          "919",
+          "952",
+          "985"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date14.php?ay=2559"
+    },
+    "15": {
+      "date": 15,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 1,
+          "total": 7
+        },
+        "1": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 3,
+          "total": 6
+        },
+        "2": {
+          "hundreds": 4,
+          "tens": 4,
+          "units": 0,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 0,
+          "total": 4
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 3,
+          "total": 9
+        },
+        "5": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 9,
+          "total": 13
+        },
+        "6": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 4,
+          "total": 10
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 2,
+          "total": 5
+        },
+        "8": {
+          "hundreds": 7,
+          "tens": 4,
+          "units": 2,
+          "total": 13
+        },
+        "9": {
+          "hundreds": 0,
+          "tens": 3,
+          "units": 3,
+          "total": 6
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "076",
+          "103",
+          "136",
+          "152",
+          "186",
+          "235",
+          "252",
+          "259",
+          "268",
+          "299",
+          "307",
+          "329",
+          "377",
+          "381",
+          "440",
+          "459",
+          "488",
+          "497",
+          "514",
+          "649",
+          "662",
+          "724",
+          "828",
+          "851",
+          "902",
+          "917",
+          "976"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date15.php?ay=2559"
+    },
+    "16": {
+      "date": 16,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 2,
+          "total": 8
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 3,
+          "total": 9
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 3,
+          "total": 9
+        },
+        "3": {
+          "hundreds": 0,
+          "tens": 2,
+          "units": 3,
+          "total": 5
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 2,
+          "total": 8
+        },
+        "5": {
+          "hundreds": 2,
+          "tens": 0,
+          "units": 1,
+          "total": 3
+        },
+        "6": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 2,
+          "total": 7
+        },
+        "7": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 3,
+          "total": 8
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 6,
+          "units": 2,
+          "total": 11
+        },
+        "9": {
+          "hundreds": 0,
+          "tens": 1,
+          "units": 3,
+          "total": 4
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "037",
+          "076",
+          "079",
+          "152",
+          "170",
+          "182",
+          "187",
+          "216",
+          "248",
+          "390",
+          "453",
+          "516",
+          "575",
+          "601",
+          "612",
+          "697",
+          "738",
+          "743",
+          "775",
+          "794",
+          "803",
+          "863",
+          "866",
+          "961"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date16.php?ay=2559"
+    },
+    "17": {
+      "date": 17,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 6,
+          "total": 10
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 4,
+          "total": 8
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 2,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 5,
+          "tens": 2,
+          "units": 3,
+          "total": 10
+        },
+        "4": {
+          "hundreds": 5,
+          "tens": 3,
+          "units": 2,
+          "total": 10
+        },
+        "5": {
+          "hundreds": 5,
+          "tens": 4,
+          "units": 6,
+          "total": 15
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 1,
+          "total": 5
+        },
+        "7": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 1,
+          "total": 4
+        },
+        "8": {
+          "hundreds": 2,
+          "tens": 6,
+          "units": 1,
+          "total": 9
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 3,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "099",
+          "125",
+          "138",
+          "153",
+          "176",
+          "209",
+          "226",
+          "256",
+          "302",
+          "470",
+          "473",
+          "476",
+          "480",
+          "509",
+          "513",
+          "516",
+          "543",
+          "562",
+          "579",
+          "617",
+          "667",
+          "704",
+          "707",
+          "717",
+          "720",
+          "846",
+          "941",
+          "944",
+          "997"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date17.php?ay=2559"
+    },
+    "18": {
+      "date": 18,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 7,
+          "units": 1,
+          "total": 12
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 1,
+          "total": 7
+        },
+        "2": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 1,
+          "total": 6
+        },
+        "3": {
+          "hundreds": 0,
+          "tens": 1,
+          "units": 3,
+          "total": 4
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 4,
+          "total": 9
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 3,
+          "total": 5
+        },
+        "6": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 5,
+          "total": 9
+        },
+        "7": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 3,
+          "total": 8
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 2,
+          "total": 9
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 4,
+          "units": 4,
+          "total": 12
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "741"
+        ],
+        "1": [
+          "024",
+          "073",
+          "116",
+          "169",
+          "199",
+          "269",
+          "273",
+          "302",
+          "336",
+          "344",
+          "500",
+          "608",
+          "642",
+          "672",
+          "700",
+          "765",
+          "777",
+          "795",
+          "810",
+          "819",
+          "822",
+          "865",
+          "866",
+          "937",
+          "975"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date18.php?ay=2559"
+    },
+    "19": {
+      "date": 19,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 6,
+          "total": 12
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 2,
+          "total": 7
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 1,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 4,
+          "total": 11
+        },
+        "4": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 6,
+          "total": 13
+        },
+        "5": {
+          "hundreds": 5,
+          "tens": 5,
+          "units": 3,
+          "total": 13
+        },
+        "6": {
+          "hundreds": 3,
+          "tens": 5,
+          "units": 1,
+          "total": 9
+        },
+        "7": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 1,
+          "total": 6
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 1,
+          "total": 4
+        },
+        "9": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 5,
+          "total": 7
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "041",
+          "091",
+          "132",
+          "164",
+          "212",
+          "231",
+          "270",
+          "271",
+          "322",
+          "345",
+          "445",
+          "459",
+          "517",
+          "518",
+          "528",
+          "573",
+          "603",
+          "630",
+          "681",
+          "698",
+          "709",
+          "737",
+          "773",
+          "789",
+          "809",
+          "862",
+          "878",
+          "923",
+          "938",
+          "982"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date19.php?ay=2559"
+    },
+    "20": {
+      "date": 20,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 4,
+          "total": 9
+        },
+        "1": {
+          "hundreds": 0,
+          "tens": 5,
+          "units": 2,
+          "total": 7
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 4,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 6,
+          "tens": 4,
+          "units": 3,
+          "total": 13
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 1,
+          "total": 7
+        },
+        "5": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 3,
+          "total": 10
+        },
+        "6": {
+          "hundreds": 5,
+          "tens": 3,
+          "units": 3,
+          "total": 11
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 4,
+          "total": 7
+        },
+        "8": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 2,
+          "total": 7
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 2,
+          "total": 5
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "086"
+        ],
+        "1": [
+          "007",
+          "056",
+          "092",
+          "101",
+          "147",
+          "161",
+          "206",
+          "372",
+          "433",
+          "438",
+          "480",
+          "513",
+          "548",
+          "551",
+          "575",
+          "607",
+          "633",
+          "644",
+          "668",
+          "706",
+          "722",
+          "768",
+          "816",
+          "849",
+          "922",
+          "990"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date20.php?ay=2559"
+    },
+    "21": {
+      "date": 21,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 0,
+          "tens": 4,
+          "units": 2,
+          "total": 6
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "2": {
+          "hundreds": 5,
+          "tens": 3,
+          "units": 4,
+          "total": 12
+        },
+        "3": {
+          "hundreds": 1,
+          "tens": 5,
+          "units": 1,
+          "total": 7
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 4,
+          "total": 10
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 1,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 1,
+          "tens": 0,
+          "units": 2,
+          "total": 3
+        },
+        "7": {
+          "hundreds": 7,
+          "tens": 5,
+          "units": 3,
+          "total": 15
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 4,
+          "total": 10
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 5,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "341"
+        ],
+        "1": [
+          "003",
+          "028",
+          "106",
+          "134",
+          "207",
+          "238",
+          "289",
+          "354",
+          "359",
+          "413",
+          "499",
+          "502",
+          "550",
+          "685",
+          "705",
+          "789",
+          "824",
+          "836",
+          "838",
+          "883",
+          "890",
+          "926",
+          "932",
+          "942",
+          "964",
+          "989"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date21.php?ay=2559"
+    },
+    "22": {
+      "date": 22,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 5,
+          "total": 10
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 4,
+          "total": 8
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 3,
+          "total": 8
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 5,
+          "total": 11
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 6,
+          "units": 2,
+          "total": 9
+        },
+        "6": {
+          "hundreds": 3,
+          "tens": 6,
+          "units": 1,
+          "total": 10
+        },
+        "7": {
+          "hundreds": 4,
+          "tens": 4,
+          "units": 2,
+          "total": 10
+        },
+        "8": {
+          "hundreds": 6,
+          "tens": 3,
+          "units": 0,
+          "total": 9
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 8,
+          "total": 15
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "295"
+        ],
+        "1": [
+          "044",
+          "099",
+          "143",
+          "164",
+          "175",
+          "245",
+          "252",
+          "264",
+          "319",
+          "325",
+          "354",
+          "361",
+          "378",
+          "402",
+          "487",
+          "490",
+          "497",
+          "568",
+          "624",
+          "636",
+          "706",
+          "710",
+          "715",
+          "808",
+          "858",
+          "908",
+          "915",
+          "918",
+          "963",
+          "996"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date22.php?ay=2559"
+    },
+    "23": {
+      "date": 23,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 5,
+          "tens": 4,
+          "units": 3,
+          "total": 12
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 5,
+          "units": 2,
+          "total": 9
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 5,
+          "total": 9
+        },
+        "3": {
+          "hundreds": 1,
+          "tens": 0,
+          "units": 6,
+          "total": 7
+        },
+        "4": {
+          "hundreds": 4,
+          "tens": 0,
+          "units": 1,
+          "total": 5
+        },
+        "5": {
+          "hundreds": 5,
+          "tens": 4,
+          "units": 0,
+          "total": 9
+        },
+        "6": {
+          "hundreds": 0,
+          "tens": 3,
+          "units": 0,
+          "total": 3
+        },
+        "7": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 2,
+          "total": 6
+        },
+        "8": {
+          "hundreds": 3,
+          "tens": 5,
+          "units": 5,
+          "total": 13
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 3,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "017",
+          "022",
+          "025",
+          "038",
+          "061",
+          "112",
+          "126",
+          "138",
+          "172",
+          "204",
+          "216",
+          "254",
+          "262",
+          "285",
+          "303",
+          "362",
+          "401",
+          "415",
+          "440",
+          "487",
+          "565",
+          "597",
+          "674",
+          "703",
+          "772",
+          "870",
+          "874"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date23.php?ay=2559"
+    },
+    "24": {
+      "date": 24,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 6,
+          "tens": 4,
+          "units": 4,
+          "total": 14
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 5,
+          "units": 2,
+          "total": 9
+        },
+        "2": {
+          "hundreds": 4,
+          "tens": 4,
+          "units": 6,
+          "total": 14
+        },
+        "3": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 3,
+          "total": 8
+        },
+        "4": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 5,
+          "total": 10
+        },
+        "5": {
+          "hundreds": 5,
+          "tens": 2,
+          "units": 1,
+          "total": 8
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 2,
+          "total": 8
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 1,
+          "total": 5
+        },
+        "8": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 2,
+          "total": 6
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 4,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "057",
+          "062",
+          "096",
+          "133",
+          "205",
+          "230",
+          "248",
+          "290",
+          "304",
+          "314",
+          "324",
+          "380",
+          "390",
+          "410",
+          "415",
+          "459",
+          "520",
+          "528",
+          "552",
+          "572",
+          "604",
+          "605",
+          "610",
+          "677",
+          "721",
+          "801",
+          "848",
+          "892",
+          "902",
+          "910"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date24.php?ay=2559"
+    },
+    "25": {
+      "date": 25,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 7,
+          "units": 5,
+          "total": 16
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 3,
+          "total": 10
+        },
+        "2": {
+          "hundreds": 0,
+          "tens": 4,
+          "units": 3,
+          "total": 7
+        },
+        "3": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 1,
+          "total": 4
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 3,
+          "total": 7
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 3,
+          "total": 9
+        },
+        "6": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 1,
+          "total": 5
+        },
+        "7": {
+          "hundreds": 5,
+          "tens": 1,
+          "units": 3,
+          "total": 9
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 2,
+          "total": 4
+        },
+        "9": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 2,
+          "total": 7
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "002",
+          "005",
+          "115",
+          "133",
+          "162",
+          "192",
+          "196",
+          "228",
+          "347",
+          "355",
+          "416",
+          "460",
+          "480",
+          "511",
+          "575",
+          "596",
+          "694",
+          "695",
+          "741",
+          "767",
+          "791",
+          "803",
+          "826",
+          "849",
+          "989"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date25.php?ay=2559"
+    },
+    "26": {
+      "date": 26,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 2,
+          "total": 8
+        },
+        "1": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 5,
+          "total": 9
+        },
+        "2": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 1,
+          "total": 5
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 2,
+          "units": 1,
+          "total": 6
+        },
+        "4": {
+          "hundreds": 0,
+          "tens": 2,
+          "units": 6,
+          "total": 8
+        },
+        "5": {
+          "hundreds": 3,
+          "tens": 5,
+          "units": 3,
+          "total": 11
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 3,
+          "total": 10
+        },
+        "7": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 3,
+          "total": 9
+        },
+        "8": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 5,
+          "total": 10
+        },
+        "9": {
+          "hundreds": 5,
+          "tens": 6,
+          "units": 0,
+          "total": 11
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "018",
+          "048",
+          "052",
+          "066",
+          "138",
+          "146",
+          "174",
+          "183",
+          "224",
+          "341",
+          "350",
+          "446",
+          "509",
+          "541",
+          "579",
+          "596",
+          "619",
+          "622",
+          "626",
+          "667",
+          "717",
+          "721",
+          "831",
+          "874",
+          "911",
+          "932",
+          "958",
+          "972",
+          "994"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date26.php?ay=2559"
+    },
+    "27": {
+      "date": 27,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 4,
+          "total": 11
+        },
+        "1": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 6,
+          "total": 11
+        },
+        "2": {
+          "hundreds": 1,
+          "tens": 4,
+          "units": 1,
+          "total": 6
+        },
+        "3": {
+          "hundreds": 2,
+          "tens": 5,
+          "units": 1,
+          "total": 8
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 2,
+          "total": 8
+        },
+        "5": {
+          "hundreds": 4,
+          "tens": 0,
+          "units": 1,
+          "total": 5
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 3,
+          "units": 1,
+          "total": 8
+        },
+        "7": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 1,
+          "total": 7
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 5,
+          "total": 8
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 5,
+          "total": 9
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "045",
+          "087",
+          "096",
+          "210",
+          "222",
+          "258",
+          "294",
+          "380",
+          "412",
+          "480",
+          "508",
+          "524",
+          "541",
+          "619",
+          "667",
+          "766",
+          "785",
+          "787",
+          "821",
+          "853",
+          "872",
+          "899",
+          "911",
+          "912",
+          "936",
+          "970",
+          "987"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date27.php?ay=2559"
+    },
+    "28": {
+      "date": 28,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 1,
+          "tens": 6,
+          "units": 3,
+          "total": 10
+        },
+        "1": {
+          "hundreds": 7,
+          "tens": 3,
+          "units": 1,
+          "total": 11
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 3,
+          "total": 9
+        },
+        "3": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 1,
+          "total": 6
+        },
+        "4": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 0,
+          "total": 3
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 4,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 7,
+          "total": 13
+        },
+        "7": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 3,
+          "total": 7
+        },
+        "8": {
+          "hundreds": 6,
+          "tens": 1,
+          "units": 4,
+          "total": 11
+        },
+        "9": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 1,
+          "total": 4
+        }
+      },
+      "frequency_distribution": {
+        "2": [
+          "118",
+          "439"
+        ],
+        "1": [
+          "001",
+          "053",
+          "115",
+          "177",
+          "212",
+          "229",
+          "239",
+          "253",
+          "310",
+          "367",
+          "374",
+          "480",
+          "514",
+          "528",
+          "654",
+          "679",
+          "702",
+          "770",
+          "782",
+          "845",
+          "859",
+          "880",
+          "996"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date28.php?ay=2559"
+    },
+    "29": {
+      "date": 29,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 3,
+          "units": 2,
+          "total": 7
+        },
+        "1": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 3,
+          "total": 6
+        },
+        "2": {
+          "hundreds": 4,
+          "tens": 2,
+          "units": 3,
+          "total": 9
+        },
+        "3": {
+          "hundreds": 0,
+          "tens": 2,
+          "units": 3,
+          "total": 5
+        },
+        "4": {
+          "hundreds": 5,
+          "tens": 3,
+          "units": 5,
+          "total": 13
+        },
+        "5": {
+          "hundreds": 6,
+          "tens": 3,
+          "units": 2,
+          "total": 11
+        },
+        "6": {
+          "hundreds": 2,
+          "tens": 4,
+          "units": 2,
+          "total": 8
+        },
+        "7": {
+          "hundreds": 5,
+          "tens": 3,
+          "units": 4,
+          "total": 12
+        },
+        "8": {
+          "hundreds": 0,
+          "tens": 4,
+          "units": 4,
+          "total": 8
+        },
+        "9": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 1,
+          "total": 8
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "010",
+          "075",
+          "095",
+          "194",
+          "198",
+          "239",
+          "288",
+          "295",
+          "351",
+          "369",
+          "392",
+          "400",
+          "413",
+          "419",
+          "420",
+          "448",
+          "479",
+          "493",
+          "499",
+          "500",
+          "569",
+          "605",
+          "618",
+          "686",
+          "774",
+          "835",
+          "936",
+          "970",
+          "976"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date29.php?ay=2559"
+    },
+    "30": {
+      "date": 30,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 2,
+          "tens": 2,
+          "units": 5,
+          "total": 9
+        },
+        "1": {
+          "hundreds": 0,
+          "tens": 3,
+          "units": 2,
+          "total": 5
+        },
+        "2": {
+          "hundreds": 3,
+          "tens": 4,
+          "units": 5,
+          "total": 12
+        },
+        "3": {
+          "hundreds": 3,
+          "tens": 1,
+          "units": 1,
+          "total": 5
+        },
+        "4": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 1,
+          "total": 4
+        },
+        "5": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 2,
+          "total": 7
+        },
+        "6": {
+          "hundreds": 5,
+          "tens": 5,
+          "units": 1,
+          "total": 11
+        },
+        "7": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 3,
+          "total": 9
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 2,
+          "total": 5
+        },
+        "9": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 2,
+          "total": 5
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "039",
+          "059",
+          "091",
+          "107",
+          "261",
+          "265",
+          "284",
+          "301",
+          "459",
+          "529",
+          "591",
+          "603",
+          "606",
+          "614",
+          "673",
+          "683",
+          "764",
+          "811",
+          "835",
+          "863",
+          "872",
+          "924",
+          "959",
+          "994"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date30.php?ay=2559"
+    },
+    "31": {
+      "date": 31,
+      "digit_position_stats": {
+        "0": {
+          "hundreds": 1,
+          "tens": 1,
+          "units": 0,
+          "total": 2
+        },
+        "1": {
+          "hundreds": 0,
+          "tens": 1,
+          "units": 0,
+          "total": 1
+        },
+        "2": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 1,
+          "total": 4
+        },
+        "3": {
+          "hundreds": 2,
+          "tens": 1,
+          "units": 3,
+          "total": 6
+        },
+        "4": {
+          "hundreds": 3,
+          "tens": 3,
+          "units": 4,
+          "total": 10
+        },
+        "5": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 0,
+          "total": 4
+        },
+        "6": {
+          "hundreds": 4,
+          "tens": 1,
+          "units": 2,
+          "total": 7
+        },
+        "7": {
+          "hundreds": 1,
+          "tens": 3,
+          "units": 2,
+          "total": 6
+        },
+        "8": {
+          "hundreds": 1,
+          "tens": 2,
+          "units": 3,
+          "total": 6
+        },
+        "9": {
+          "hundreds": 1,
+          "tens": 0,
+          "units": 1,
+          "total": 2
+        }
+      },
+      "frequency_distribution": {
+        "1": [
+          "007",
+          "277",
+          "303",
+          "339",
+          "408",
+          "537",
+          "541",
+          "575",
+          "605",
+          "647",
+          "664",
+          "695",
+          "718",
+          "725",
+          "922",
+          "932"
+        ]
+      },
+      "source_url": "https://lotto.thaiorc.com/lao/last3/stats-date31.php?ay=2559"
+    }
+  }
+}

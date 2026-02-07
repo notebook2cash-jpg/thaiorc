@@ -1,0 +1,158 @@
+{
+  "status": "ok",
+  "updated_at": "2026-02-07T03:49:00.132276Z",
+  "source": "https://lotto.thaiorc.com/lao/lottery.php",
+  "count": 15,
+  "data": [
+    {
+      "date": "2026-02-06",
+      "date_thai": "06/02/2569",
+      "numbers": {
+        "last4": "7430",
+        "last3": "430",
+        "last2": "30"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690206"
+    },
+    {
+      "date": "2026-02-04",
+      "date_thai": "04/02/2569",
+      "numbers": {
+        "last4": "8073",
+        "last3": "073",
+        "last2": "73"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690204"
+    },
+    {
+      "date": "2026-02-02",
+      "date_thai": "02/02/2569",
+      "numbers": {
+        "last4": "7085",
+        "last3": "085",
+        "last2": "85"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690202"
+    },
+    {
+      "date": "2026-01-30",
+      "date_thai": "30/01/2569",
+      "numbers": {
+        "last4": "7039",
+        "last3": "039",
+        "last2": "39"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690130"
+    },
+    {
+      "date": "2026-01-28",
+      "date_thai": "28/01/2569",
+      "numbers": {
+        "last4": "3439",
+        "last3": "439",
+        "last2": "39"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690128"
+    },
+    {
+      "date": "2026-01-26",
+      "date_thai": "26/01/2569",
+      "numbers": {
+        "last4": "0932",
+        "last3": "932",
+        "last2": "32"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690126"
+    },
+    {
+      "date": "2026-01-23",
+      "date_thai": "23/01/2569",
+      "numbers": {
+        "last4": "8401",
+        "last3": "401",
+        "last2": "01"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690123"
+    },
+    {
+      "date": "2026-01-21",
+      "date_thai": "21/01/2569",
+      "numbers": {
+        "last4": "9685",
+        "last3": "685",
+        "last2": "85"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690121"
+    },
+    {
+      "date": "2026-01-19",
+      "date_thai": "19/01/2569",
+      "numbers": {
+        "last4": "7789",
+        "last3": "789",
+        "last2": "89"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690119"
+    },
+    {
+      "date": "2026-01-16",
+      "date_thai": "16/01/2569",
+      "numbers": {
+        "last4": "4182",
+        "last3": "182",
+        "last2": "82"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690116"
+    },
+    {
+      "date": "2026-01-14",
+      "date_thai": "14/01/2569",
+      "numbers": {
+        "last4": "8060",
+        "last3": "060",
+        "last2": "60"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690114"
+    },
+    {
+      "date": "2026-01-12",
+      "date_thai": "12/01/2569",
+      "numbers": {
+        "last4": "6753",
+        "last3": "753",
+        "last2": "53"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690112"
+    },
+    {
+      "date": "2026-01-09",
+      "date_thai": "09/01/2569",
+      "numbers": {
+        "last4": "0905",
+        "last3": "905",
+        "last2": "05"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690109"
+    },
+    {
+      "date": "2026-01-07",
+      "date_thai": "07/01/2569",
+      "numbers": {
+        "last4": "7653",
+        "last3": "653",
+        "last2": "53"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690107"
+    },
+    {
+      "date": "2026-01-05",
+      "date_thai": "05/01/2569",
+      "numbers": {
+        "last4": "3845",
+        "last3": "845",
+        "last2": "45"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690105"
+    }
+  ]
+}
