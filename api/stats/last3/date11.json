@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-02-11T05:18:50.662284Z",
+  "updated_at": "2026-02-11T18:13:57.933021Z",
   "date": 11,
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -37,16 +37,16 @@
         "total": 10
       },
       "5": {
-        "hundreds": 2,
+        "hundreds": 3,
         "tens": 2,
         "units": 2,
-        "total": 6
+        "total": 7
       },
       "6": {
         "hundreds": 4,
         "tens": 6,
-        "units": 6,
-        "total": 16
+        "units": 7,
+        "total": 17
       },
       "7": {
         "hundreds": 2,
@@ -62,9 +62,9 @@
       },
       "9": {
         "hundreds": 4,
-        "tens": 6,
+        "tens": 7,
         "units": 6,
-        "total": 16
+        "total": 17
       }
     },
     "frequency_distribution": {
@@ -82,6 +82,7 @@
         "339",
         "382",
         "385",
+        "469",
         "623",
         "650",
         "667",
