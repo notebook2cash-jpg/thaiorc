@@ -1,11 +1,9 @@
 name: Scrape Lao Lottery (Latest Only)
 
 on:
-  # Latest only: ทุกวัน จันทร์ พุธ ศุกร์ เวลา 12:00 และ 20:45 (เวลาไทย UTC+7)
-  # 12:00 TH = 05:00 UTC วันเดียวกัน (จันทร์/พุธ/ศุกร์)
+  # Latest only: ทุกวัน จันทร์ พุธ ศุกร์ เวลา 20:45 (เวลาไทย UTC+7)
   # 20:45 TH = 13:45 UTC วันเดียวกัน (จันทร์/พุธ/ศุกร์)
   schedule:
-    - cron: '0 5 * * 1,3,5'    # 12:00 TH (จ./พ./ศ.)
     - cron: '45 13 * * 1,3,5'  # 20:45 TH (จ./พ./ศ.)
   # Allow manual trigger
   workflow_dispatch:
