@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "updated_at": "2026-03-13T04:28:04.816506Z",
+  "updated_at": "2026-03-16T05:07:57.100604Z",
   "source": "https://lotto.thaiorc.com/lao/last3/stats-years10.php",
   "period": "10 ปีย้อนหลัง",
   "data": {
     "description": "ดูผลการวิเคราะห์สถิติหวยลาว สถิติเลข 3 ตัว ที่ออกในย้อนหลัง 10 ปี วิเคราะห์ผลการออกสลากย้อนหลังอย่างละเอียด",
     "digit_position_stats": {
       "0": {
-        "hundreds": 89,
+        "hundreds": 90,
         "tens": 101,
         "units": 80,
-        "total": 270
+        "total": 271
       },
       "1": {
         "hundreds": 78,
@@ -27,8 +27,8 @@
       "3": {
         "hundreds": 81,
         "tens": 82,
-        "units": 68,
-        "total": 231
+        "units": 69,
+        "total": 232
       },
       "4": {
         "hundreds": 83,
@@ -62,9 +62,9 @@
       },
       "9": {
         "hundreds": 85,
-        "tens": 83,
+        "tens": 84,
         "units": 99,
-        "total": 267
+        "total": 268
       }
     },
     "frequency_distribution": {
@@ -118,6 +118,7 @@
         "724",
         "741",
         "774",
+        "786",
         "809",
         "849",
         "851",
@@ -244,7 +245,6 @@
         "737",
         "767",
         "775",
-        "786",
         "789",
         "795",
         "798",
