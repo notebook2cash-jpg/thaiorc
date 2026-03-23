@@ -2,7 +2,7 @@
   "status": "ok",
   "name": "Lao Lottery API",
   "description": "ข้อมูลผลหวยลาว scraped จาก thaiorc.com",
-  "updated_at": "2026-03-20T14:27:53.832265Z",
+  "updated_at": "2026-03-23T04:56:11.551586Z",
   "endpoints": {
     "latest": "api/latest.json",
     "all_results": "api/results.json",
