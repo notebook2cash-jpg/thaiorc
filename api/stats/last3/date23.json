@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-03-23T04:56:11.551586Z",
+  "updated_at": "2026-03-25T04:47:42.735482Z",
   "date": 23,
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -27,8 +27,8 @@
       "3": {
         "hundreds": 1,
         "tens": 0,
-        "units": 6,
-        "total": 7
+        "units": 7,
+        "total": 8
       },
       "4": {
         "hundreds": 4,
@@ -49,10 +49,10 @@
         "total": 4
       },
       "7": {
-        "hundreds": 3,
-        "tens": 1,
+        "hundreds": 4,
+        "tens": 2,
         "units": 2,
-        "total": 6
+        "total": 8
       },
       "8": {
         "hundreds": 3,
@@ -75,6 +75,7 @@
         "025",
         "038",
         "061",
+        "101",
         "112",
         "126",
         "138",
