@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-03-27T05:00:45.314384Z",
+  "updated_at": "2026-03-30T05:15:49.899083Z",
   "source": "https://lotto.thaiorc.com/lao/last2/stats-date{1-31}.php",
   "period": "10 ปีย้อนหลัง",
   "count": 31,
@@ -2287,9 +2287,9 @@
           "total": 2
         },
         "4": {
-          "tens": 2,
+          "tens": 3,
           "units": 2,
-          "total": 4
+          "total": 5
         },
         "5": {
           "tens": 2,
@@ -2313,8 +2313,8 @@
         },
         "9": {
           "tens": 3,
-          "units": 2,
-          "total": 5
+          "units": 3,
+          "total": 6
         }
       },
       "frequency_distribution": {
@@ -2336,6 +2336,7 @@
           "36",
           "41",
           "45",
+          "49",
           "53",
           "58",
           "66",
