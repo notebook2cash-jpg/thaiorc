@@ -1,22 +1,22 @@
 {
   "status": "ok",
-  "updated_at": "2026-03-30T05:15:49.899083Z",
+  "updated_at": "2026-04-03T04:57:47.622211Z",
   "source": "https://lotto.thaiorc.com/lao/last3/stats-years10.php",
   "period": "10 ปีย้อนหลัง",
   "data": {
     "description": "ดูผลการวิเคราะห์สถิติหวยลาว สถิติเลข 3 ตัว ที่ออกในย้อนหลัง 10 ปี วิเคราะห์ผลการออกสลากย้อนหลังอย่างละเอียด",
     "digit_position_stats": {
       "0": {
-        "hundreds": 91,
+        "hundreds": 92,
         "tens": 102,
         "units": 80,
-        "total": 273
+        "total": 274
       },
       "1": {
         "hundreds": 78,
         "tens": 74,
-        "units": 94,
-        "total": 246
+        "units": 95,
+        "total": 247
       },
       "2": {
         "hundreds": 92,
@@ -25,10 +25,10 @@
         "total": 273
       },
       "3": {
-        "hundreds": 81,
+        "hundreds": 82,
         "tens": 82,
         "units": 70,
-        "total": 233
+        "total": 234
       },
       "4": {
         "hundreds": 83,
@@ -45,14 +45,14 @@
       "6": {
         "hundreds": 78,
         "tens": 82,
-        "units": 79,
-        "total": 239
+        "units": 80,
+        "total": 240
       },
       "7": {
         "hundreds": 96,
-        "tens": 80,
+        "tens": 81,
         "units": 84,
-        "total": 260
+        "total": 261
       },
       "8": {
         "hundreds": 74,
@@ -62,9 +62,9 @@
       },
       "9": {
         "hundreds": 86,
-        "tens": 85,
+        "tens": 86,
         "units": 99,
-        "total": 270
+        "total": 271
       }
     },
     "frequency_distribution": {
@@ -121,6 +121,7 @@
         "786",
         "798",
         "809",
+        "810",
         "849",
         "851",
         "926",
@@ -253,7 +254,6 @@
         "795",
         "803",
         "808",
-        "810",
         "816",
         "822",
         "824",
@@ -500,6 +500,7 @@
         "572",
         "573",
         "576",
+        "585",
         "588",
         "589",
         "591",
@@ -901,7 +902,6 @@
       "582",
       "583",
       "584",
-      "585",
       "586",
       "587",
       "590",
@@ -1081,6 +1081,6 @@
       "995",
       "998"
     ],
-    "never_drawn_count": 430
+    "never_drawn_count": 429
   }
 }

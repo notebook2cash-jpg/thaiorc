@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-03-30T05:15:49.899083Z",
+  "updated_at": "2026-04-03T04:57:47.622211Z",
   "date": 1,
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -8,13 +8,13 @@
     "digit_position_stats": {
       "0": {
         "tens": 3,
-        "units": 0,
-        "total": 3
+        "units": 1,
+        "total": 4
       },
       "1": {
-        "tens": 2,
+        "tens": 3,
         "units": 4,
-        "total": 6
+        "total": 7
       },
       "2": {
         "tens": 2,
@@ -66,6 +66,7 @@
         "02",
         "03",
         "06",
+        "10",
         "16",
         "17",
         "22",
