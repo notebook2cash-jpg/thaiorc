@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-04-06T05:14:50.339492Z",
+  "updated_at": "2026-04-08T05:03:58.538231Z",
   "source": "https://lotto.thaiorc.com/lao/last3/stats-years10.php",
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -13,10 +13,10 @@
         "total": 276
       },
       "1": {
-        "hundreds": 78,
+        "hundreds": 79,
         "tens": 74,
         "units": 95,
-        "total": 247
+        "total": 248
       },
       "2": {
         "hundreds": 92,
@@ -25,28 +25,28 @@
         "total": 273
       },
       "3": {
-        "hundreds": 82,
+        "hundreds": 83,
         "tens": 82,
         "units": 70,
-        "total": 234
+        "total": 235
       },
       "4": {
         "hundreds": 83,
         "tens": 88,
-        "units": 97,
-        "total": 268
+        "units": 98,
+        "total": 269
       },
       "5": {
         "hundreds": 95,
         "tens": 81,
-        "units": 73,
-        "total": 249
+        "units": 74,
+        "total": 250
       },
       "6": {
         "hundreds": 78,
-        "tens": 82,
+        "tens": 83,
         "units": 80,
-        "total": 240
+        "total": 241
       },
       "7": {
         "hundreds": 96,
@@ -62,9 +62,9 @@
       },
       "9": {
         "hundreds": 87,
-        "tens": 88,
+        "tens": 89,
         "units": 99,
-        "total": 274
+        "total": 275
       }
     },
     "frequency_distribution": {
@@ -216,6 +216,7 @@
         "469",
         "481",
         "487",
+        "488",
         "496",
         "497",
         "498",
@@ -374,6 +375,7 @@
         "204",
         "205",
         "207",
+        "211",
         "220",
         "228",
         "229",
@@ -469,7 +471,6 @@
         "478",
         "479",
         "485",
-        "488",
         "489",
         "490",
         "502",
@@ -736,7 +737,6 @@
       "202",
       "203",
       "208",
-      "211",
       "213",
       "214",
       "217",
@@ -1081,6 +1081,6 @@
       "995",
       "998"
     ],
-    "never_drawn_count": 428
+    "never_drawn_count": 427
   }
 }
