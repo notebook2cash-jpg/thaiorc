@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-04-20T05:31:14.900229Z",
+  "updated_at": "2026-04-22T05:16:09.158129Z",
   "date": 20,
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -52,9 +52,9 @@
         "total": 8
       },
       "9": {
-        "tens": 3,
-        "units": 1,
-        "total": 4
+        "tens": 4,
+        "units": 2,
+        "total": 6
       }
     },
     "frequency_distribution": {
@@ -84,7 +84,8 @@
         "80",
         "90",
         "92",
-        "98"
+        "98",
+        "99"
       ]
     },
     "source_url": "https://lotto.thaiorc.com/lao/last2/stats-date20.php?ay=2559"
