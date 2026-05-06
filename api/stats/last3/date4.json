@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-05-04T05:53:41.609990Z",
+  "updated_at": "2026-05-06T03:39:33.238891Z",
   "date": 4,
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -32,9 +32,9 @@
       },
       "4": {
         "hundreds": 4,
-        "tens": 4,
+        "tens": 5,
         "units": 3,
-        "total": 11
+        "total": 12
       },
       "5": {
         "hundreds": 7,
@@ -49,10 +49,10 @@
         "total": 6
       },
       "7": {
-        "hundreds": 2,
+        "hundreds": 3,
         "tens": 3,
         "units": 5,
-        "total": 10
+        "total": 11
       },
       "8": {
         "hundreds": 1,
@@ -63,8 +63,8 @@
       "9": {
         "hundreds": 4,
         "tens": 2,
-        "units": 4,
-        "total": 10
+        "units": 5,
+        "total": 11
       }
     },
     "frequency_distribution": {
@@ -73,6 +73,7 @@
         "131",
         "157",
         "185",
+        "193",
         "242",
         "303",
         "353",
