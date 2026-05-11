@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "updated_at": "2026-05-08T05:21:24.640573Z",
+  "updated_at": "2026-05-11T06:26:34.785440Z",
   "date": 8,
   "period": "10 ปีย้อนหลัง",
   "data": {
@@ -20,9 +20,9 @@
       },
       "2": {
         "hundreds": 4,
-        "tens": 3,
+        "tens": 4,
         "units": 4,
-        "total": 11
+        "total": 12
       },
       "3": {
         "hundreds": 1,
@@ -43,16 +43,16 @@
         "total": 5
       },
       "6": {
-        "hundreds": 0,
+        "hundreds": 1,
         "tens": 3,
         "units": 2,
-        "total": 5
+        "total": 6
       },
       "7": {
         "hundreds": 2,
         "tens": 4,
-        "units": 5,
-        "total": 11
+        "units": 6,
+        "total": 12
       },
       "8": {
         "hundreds": 2,
@@ -91,6 +91,7 @@
         "798",
         "808",
         "811",
+        "877",
         "878",
         "913",
         "939",
