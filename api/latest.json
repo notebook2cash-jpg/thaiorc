@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "updated_at": "2026-05-13T03:06:31.803383Z",
+  "updated_at": "2026-05-13T03:09:09.394439Z",
   "source": "https://lotto.thaiorc.com/lao/lottery.php",
   "data": {
-    "date": "2026-05-12",
-    "date_thai": "12/05/2569",
+    "date": "2026-05-13",
+    "date_thai": "13/05/2569",
     "numbers": {
       "last4": "4931",
       "last3": "931",
