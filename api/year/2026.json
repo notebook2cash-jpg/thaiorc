@@ -1,10 +1,20 @@
 {
   "status": "ok",
-  "updated_at": "2026-05-14T01:34:04.567808Z",
+  "updated_at": "2026-05-14T03:22:28.123882Z",
   "source": "https://lotto.thaiorc.com/lao/lottery.php",
   "year": "2026",
   "count": 15,
   "data": [
+    {
+      "date": "2026-05-13",
+      "date_thai": "13/05/2569",
+      "numbers": {
+        "last4": "0572",
+        "last3": "572",
+        "last2": "72"
+      },
+      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690513"
+    },
     {
       "date": "2026-05-12",
       "date_thai": "12/05/2569",
@@ -144,16 +154,6 @@
         "last2": "57"
       },
       "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690422"
-    },
-    {
-      "date": "2026-04-21",
-      "date_thai": "21/04/2569",
-      "numbers": {
-        "last4": "1907",
-        "last3": "907",
-        "last2": "07"
-      },
-      "detail_url": "https://lotto.thaiorc.com/lao/jackpot.php?contentID=25690421"
     }
   ]
 }
